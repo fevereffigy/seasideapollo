@@ -1,6 +1,6 @@
 - Hi, I’m @sifersphynx
 - I'm a self-taught programmer with a passion for coding. 
-- I’m currently learning Python and Javascript for Web Development and automation.
+- I’m currently learning Python, C++ and Javascript for Web Development and Automation.
 
 
 
