@@ -9,5 +9,3 @@
 - 📫 How to reach me: olegajun@gmail.com
 
 
-Activity days streak: 6
-
