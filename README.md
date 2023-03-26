@@ -3,10 +3,10 @@
 - Big interest in Web dev, coding art and cybersecurity.
 - I’m currently learning Web development with JS. Written things with C++ and Python in the past.
 - Part of the Odin Project community.
-- 💞️ Looking to collaborate on Python projects of all magnitudes.
+- 💞️ Looking to collaborate on projects of all magnitudes.
 
 
 
-- 📫 How to reach me: olegajun@gmail.com
+- 📫 How to reach me: howlkimuradev@gmail.com
 
 
