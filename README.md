@@ -7,6 +7,6 @@
 
 
 
-- 📫 How to reach me: olegajun@gmail.com
+- 📫 How to reach me: terminalvelocitydev@gmail.com
 
 
