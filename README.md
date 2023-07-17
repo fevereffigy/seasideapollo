@@ -1,6 +1,6 @@
 ## Hey! 
 
-I'm a self-taught programmer with a passion for coding.  
+I'm a self-taught developer with a passion for the craft.  
   
 Part of the Odin Project community.
 
